@@ -1,0 +1,39 @@
+# SPDX-FileCopyrightText: 2026 Digg - Agency for Digital Government
+#
+# SPDX-License-Identifier: EUPL-1.2
+
+# This repository adheres to the publiccode.yml standard by including this
+# metadata file that makes public software easily discoverable.
+# More info at https://github.com/italia/publiccode.yml
+
+publiccodeYmlVersion: "0.4"
+categories:
+  - <TBD>
+description:
+  en:
+    features:
+      - <TBD>
+    longDescription: |
+      <TBD>
+    shortDescription: "<TBD>"
+developmentStatus: development
+legal:
+  license: EUPL-1.2
+localisation:
+  availableLanguages:
+    - en
+  localisationReady: false
+maintenance:
+  contacts:
+    - name: ospo@digg.se
+  type: internal
+name: Wallet Requirements
+platforms:
+  - web
+  - linux
+  - windows
+  - mac
+releaseDate: "2026-09-16"
+softwareType: <TBD>
+softwareVersion: "0.0.0"
+url: "https://github.com/diggsweden/wallet-requirements.git"
