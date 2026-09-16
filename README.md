@@ -6,7 +6,8 @@ Dokumentationen förvaltas öppet i GitHub och migreras successivt från tidigar
 
 ## Innehåll
 
-- [Källor för krav](./a-kallor-for-krav/README.md)
+- [A - Källor för krav](./a-kallor-for-krav/README.md)
+- [B - Masterlista krav](./b-masterlista-krav/README.md)
 
 Fler kravområden och underlag kommer att läggas till successivt.
 
