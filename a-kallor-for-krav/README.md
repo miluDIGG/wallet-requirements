@@ -4,7 +4,7 @@ Följande sida ska innehålla en samlad lista på de dokument och andra skriftli
 
 # Vad gäller kring olika typer av krav?
 
-Enligt "Fördraget om europeiska unionen (artikel 288) gäller följande:
+Enligt "Fördraget om europeiska unionen (artikel 288 ) gäller följande:
 
 > När institutionerna utövar unionens befogenheter ska de anta förordningar, direktiv, beslut, rekommendationer och yttranden.
 >
