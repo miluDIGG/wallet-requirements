@@ -2,7 +2,7 @@
 
 Följande sida ska innehålla en samlad lista på de dokument och andra skriftliga källor som utgör källor till de produktkrav som tas fram. Id eller annan beteckning kan användas som källhänvisning för att säkerställa spårbarheten för ett krav eller kravområde.
 
-# Vad gäller kring olika typer av krav?
+# Vad gäller kring olika typer av krav? 
 
 Enligt "Fördraget om europeiska unionen (artikel 288 ) gäller följande:
 
