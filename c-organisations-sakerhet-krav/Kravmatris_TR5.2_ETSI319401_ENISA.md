@@ -15,11 +15,6 @@ N/A
 - N/A
 
 ## Krav
-# Kravmatris: TR 5.2 (SP-krav) mot ETSI EN 319 401 och ENISA
-**Underlag:** TR 5.2 Service Provider Information Security Requirements (Draft V0.x, 2026-06-30), avsnitt 6 (SP-01–SP-69) · Final draft ETSI EN 319 401 V3.2.1 (2025-11), kl. 4.2–7.14 · ENISA Wallet-Related Service Provider Security Requirements v0.5 (mars 2026), kap. 4–7 (GEN-krav).
-**Läsanvisning:** ETSI-kolumnen omfattar både EN 319 401-krav (`REQ-`/`PRO-`) och ENISA-krav (`GEN-`). Täckningsgrad anges inom hakparentes: **Täckt**, **Delvis**, **Ej täckt**, **Ej tillämplig**. ENISA-krav som enbart gör en EN 319 401-klausul tillämplig redovisas inte separat. ETSI-ID återges som i standarden, inklusive dess stavningsavvikelser. Beskrivningarna är sammanfattningar, inte citat.
-
-
 
 # Kravmatris: TR 5.2 (SP-krav) mot ETSI EN 319 401 och ENISA
 
