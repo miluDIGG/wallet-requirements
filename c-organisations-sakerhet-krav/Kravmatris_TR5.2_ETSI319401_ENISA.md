@@ -8,7 +8,7 @@
 
 ## Bakgrund
 
-N/A
+Kravkällorna på organisationen är inte helt bestämda och inte kraven heller. Det finns dessutom mycket interpretationsutrymme som behöver redas ut. 
 
 ## Antagande
 
