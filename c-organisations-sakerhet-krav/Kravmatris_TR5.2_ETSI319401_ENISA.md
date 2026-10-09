@@ -19,7 +19,7 @@ Kravkällorna på organisationen är inte helt bestämda och inte kraven heller.
 # Kravmatris: TR 5.2 (SP-krav) mot ETSI EN 319 401 och ENISA
 
 
-**Läsanvisning:** ETSI-kolumnen omfattar både EN 319 401-krav (`REQ-`/`PRO-`) och ENISA-krav (`GEN-`). Täckningsgrad: 🟢 Täckt · 🟡 Delvis · 🔴 Ej täckt · ⚪ Ej tillämplig. ENISA-krav som enbart gör en EN 319 401-klausul tillämplig redovisas inte separat. ETSI-ID återges som i standarden, inklusive dess stavningsavvikelser. Beskrivningarna är sammanfattningar, inte citat.
+**Läsanvisning:** ETSI-kolumnen omfattar både EN 319 401-krav (`REQ-`/`PRO-`) och ENISA-krav (`GEN-`). Täckningsgrad:  Täckt · Delvis Täckt · Lucka · Ej tillämplig. ENISA-krav som enbart gör en EN 319 401-klausul tillämplig redovisas inte separat. ETSI-ID återges som i standarden, inklusive dess stavningsavvikelser. Beskrivningarna är sammanfattningar, inte citat.
 
 
 ## 1. SP-krav mappade mot ETSI/ENISA
